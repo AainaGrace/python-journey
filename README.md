@@ -16,6 +16,7 @@ This repository contains my Python programming tasks and Google Colab notebooks:
 | **Task 02** | [`Task_02_Student_Profile_Manager.ipynb`](./Task_02_Student_Profile_Manager.ipynb) | Student Profile Manager implementation |
 | **Task 03** | [`Task_03_Resume_Generator.ipynb`](./Task_03_Resume_Generator.ipynb) | Automated Resume Generator tool |
 | *Task 04* | [Task_04_Portfolio_README_Generator.ipynb](Task_04_Portfolio__README_Generator.ipynb) | Portfolio README Generator implementation |
+| *Task 05* | [Task_05_Smart_Bio_Generator.ipynb](Task_05_Smart_Bio_Generator.ipynb) | Smart Bio Generator implementation |
 
 ---
 
